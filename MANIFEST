@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/App-Monupco-OpenShift.t
+lib/App/Monupco/OpenShift.pm
+lib/App/Monupco/OpenShift/Parser.pm
+META.yml                                 Module meta-data (added by MakeMaker)
